@@ -1,0 +1,81 @@
+html,
+body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.header-logout {
+  color: rgb(172, 0, 0);
+}
+
+.header-right > a.header-logout:hover {
+  text-decoration: none;
+  color: red;
+}
+
+.main-content {
+  height: 1500px;
+  background-image: url(https://preview.colorlib.com/theme/laundry/assets/img/hero/h1_hero.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.main-content > .content-text {
+  height: 1500px;
+  background: rgba(0, 0, 0, 0.3);
+  padding-top: 200px;
+}
+
+.main-content h1 {
+  font-size: 65px;
+}
+
+.main-content p {
+  font-size: 28px;
+}
+
+.works {
+  color: #6785ff;
+}
+
+.socmed {
+  color: #6785ff;
+}
+
+.ft-desc {
+  color: gray;
+}
+
+.footer-serv {
+  color: gray;
+}
+
+.footer-contact {
+  color: gray;
+}
+
+.ft-phone {
+  color: #6785ff;
+  font-size: 28px;
+}
+
+.copyright {
+  bottom: 0;
+  padding-top: 30px;
+  color: white;
+  height: 80px;
+  background: #6785ff;
+}
+
+.content-text a {
+  background-color: #6785ff;
+}
+
+.card {
+  margin-top: -45px;
+}
+
+.card-header {
+  background: #6785ff;
+}
